@@ -1,4 +1,4 @@
-## 🏆 [HuStar]([http://www.hustar.org/newpages/index.htm]) HuStar Ict6기 10월 프로젝트
+## 🏆 [HuStar](http://www.hustar.org/newpages/index.htm) ICT6기 10월 프로젝트
 
 ![image](https://user-images.githubusercontent.com/94505652/223682224-5abf74eb-74f3-4e15-bf84-e2a9958c6821.PNG)
 
@@ -11,11 +11,11 @@
 ## ⭐️ 주요 기능
 | <img width="200px" src="https://user-images.githubusercontent.com/61593290/190440234-ad2622a3-fb19-4fc0-8d72-032cbd03fcb1.gif"> |<img width="200px" src="https://user-images.githubusercontent.com/61593290/190435528-16559e99-dca2-4dc9-9a5a-9e569b40cb64.gif"> |
 | --- | --- |
-| 회원가입 | 로그인 |
+| 메인화면 | 회원가입 |
 |  <img width="200px" src="https://user-images.githubusercontent.com/61593290/190435554-b8a5f52a-fb15-4e64-8144-55f7b25a2e86.gif">  | <img width="200px" src="https://user-images.githubusercontent.com/61593290/190435571-78226e2a-1142-49c1-b4ea-dc14f40960e3.gif"> |
-| 화분 등록하기 | 화분 삭제하기 |
-|  <img width="200px" src="https://user-images.githubusercontent.com/61593290/190435554-b8a5f52a-fb15-4e64-8144-55f7b25a2e86.gif">  |
-| 화분상태 확인하기 |
+| 로그인 | 화분 등록 화면 |
+|  <img width="200px" src="https://user-images.githubusercontent.com/61593290/190435554-b8a5f52a-fb15-4e64-8144-55f7b25a2e86.gif">  |  <img width="200px" src="https://user-images.githubusercontent.com/61593290/190435554-b8a5f52a-fb15-4e64-8144-55f7b25a2e86.gif">  |
+| 화분 삭제 | 화분 상태 화면 |
 
 ## 🛠 사용한 기술
 

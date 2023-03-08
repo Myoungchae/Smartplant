@@ -4,9 +4,15 @@
 
 🤔 식물을 키울때 온도, 습도 등 화분에있는 식물의 상태를 알려주면 편리하지 않을까?
 
-# SmartPlant.app
+## 🛠 사용한 기술
+
+ AndroidStudio(Java), firebase, Arduino IDE
+
+# ✍️ [SmartPlant.app](https://velog.io/@myoungchae0_0/HuStar-ICT-6기#10월-첫-프로젝트)
+
 내손안에 새싹은 화분에설치된 아두이노에 온도, 습도등을 실시간으로 알려주어 쉽게 식물을 키울 수 있도록 도와주는 어플입니다.<br>
-화분 하단에 있는 Serial Number를 등록하여 화분을 생성하고, 화분의 온습도 상태를 알수있습니다.
+화분 하단에 있는 Serial Number를 등록하여 어플리케이션에 화분을 생성하고, 화분은 Wifi통신을 통해 DB로 온습도 값을 넘겨줍니다.<br>
+어플에서 DB와 데이터 통신을 통해 화분의 실시간 온습도 상태를 알수있습니다.
 
 ## ⭐️ 주요 기능
 | <img width="200px" src="https://user-images.githubusercontent.com/94505652/223734463-45831afc-e2e1-4e92-88cf-25b4349f8329.png"> |<img width="200px" src="https://user-images.githubusercontent.com/94505652/223733848-28ddf842-3653-40d3-846c-42c407eb9372.jpeg"> | <img width="200px" src="https://user-images.githubusercontent.com/94505652/223733221-3584c077-d2ef-4b1a-975b-3525918dcf8e.jpeg"> |
@@ -18,12 +24,5 @@
 ## 💵 수익 창출
 | <img width="200px" src="https://user-images.githubusercontent.com/94505652/223782212-cabafd82-2a28-45b9-b8ae-bd82c73b25e5.gif"> |
 | :---: |
-| 광고를 통한 수익 창출 |
+| 메인 화면의 광고 |
 
-## 🛠 사용한 기술
-
- AndroidStudio(Java), firebase, Arduino IDE
-
-## ℹ️ [Velog](https://velog.io/@myoungchae0_0/HuStar-ICT-6기#10월-첫-프로젝트)
-
- 

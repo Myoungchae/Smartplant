@@ -1,4 +1,4 @@
-## 🏆 [HuStar](http://www.hustar.org/newpages/index.htm) ICT6기 10월 프로젝트
+## 🏆 [HuStar](http://www.hustar.org/newpages/index.htm) ICT 6기 10월 프로젝트
 
 ![image](https://user-images.githubusercontent.com/94505652/223682224-5abf74eb-74f3-4e15-bf84-e2a9958c6821.PNG)
 
@@ -8,7 +8,7 @@
 
  AndroidStudio(Java), firebase, Arduino IDE
 
-# ✍️ [SmartPlant.app](https://velog.io/@myoungchae0_0/HuStar-ICT-6기#10월-첫-프로젝트)
+# 🧑🏻‍💻 SmartPlant.app
 
 내손안에 새싹은 화분에설치된 아두이노에 온도, 습도등을 실시간으로 알려주어 쉽게 식물을 키울 수 있도록 도와주는 어플입니다.<br>
 화분 하단에 있는 Serial Number를 등록하여 어플리케이션에 화분을 생성하고, 화분은 Wifi통신을 통해 DB로 온습도 값을 넘겨줍니다.<br>
@@ -26,3 +26,5 @@
 | :---: |
 | 메인 화면의 광고 |
 
+## ✍️ 블로그
+[MyoungChae0_0](https://velog.io/@myoungchae0_0/HuStar-ICT-6기#10월-첫-프로젝트)

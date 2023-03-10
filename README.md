@@ -18,7 +18,7 @@
 | <img width="200px" src="https://user-images.githubusercontent.com/94505652/223734463-45831afc-e2e1-4e92-88cf-25b4349f8329.png"> |<img width="200px" src="https://user-images.githubusercontent.com/94505652/223733848-28ddf842-3653-40d3-846c-42c407eb9372.jpeg"> | <img width="200px" src="https://user-images.githubusercontent.com/94505652/223733221-3584c077-d2ef-4b1a-975b-3525918dcf8e.jpeg"> |
 | :---: | :---: | :---: |
 | 메인 화면 | 회원가입 화면 | 로그인 화면 |
-|  <img width="200px" src="https://user-images.githubusercontent.com/94505652/223786764-ba217d7d-4397-477b-aafe-321e217ede53.gif">  | <img width="200px" src="https://user-images.githubusercontent.com/94505652/223795022-5c98c2a1-bbfe-47b4-b7f2-a838d01e83af.gif"> | <img width="200px" src="https://user-images.githubusercontent.com/94505652/223798147-de87c81c-4596-46d7-bd2e-b967c855899a.jpg"> |
+|  <img width="200px" src="https://user-images.githubusercontent.com/94505652/223786764-ba217d7d-4397-477b-aafe-321e217ede53.gif">  | <img width="200px" src="https://user-images.githubusercontent.com/94505652/223795022-5c98c2a1-bbfe-47b4-b7f2-a838d01e83af.gif"> | <img width="200px" src="https://user-images.githubusercontent.com/94505652/224249642-6f1bc42c-a209-45ae-a141-4b0e1f43aa46.jpg"> |
 | 식물 등록 화면 | 식물 수정 화면 | 식물 상태 화면 |
 
 ## 💵 수익 창출
